@@ -5,5 +5,16 @@
 }
 
 .capa-imagem{
-  s
+  width: 500px;
+  padding-left: 660px;
+  text-align: center;
+}
+
+.tabela-valores{
+  font-size: 50px;
+  text-align: center;
+}
+
+.valor{ 
+  align-items: stretch;
 }
