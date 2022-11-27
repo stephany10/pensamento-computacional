@@ -1,20 +1,64 @@
-.titulo{
-  font-size: 90px;
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+.titulo-principal{
   text-align: center;
-  color: #FF1493
+padding-left: 20px;
+color: #696969;
+font-family: 'Sarala', sans-serif;
 }
 
-.capa-imagem{
-  width: 500px;
-  padding-left: 660px;
-  text-align: center;
+#outros :hover{
+color: white;
 }
 
-.tabela-valores{
-  font-size: 50px;
-  text-align: center;
+.s{
+  font-size: 30px;
+  text-align: letf;
+padding-left: 30px;
+color: #1C1C1C;
+font-family: 'Sarala', sans-serif;
 }
 
-.valor{ 
-  align-items: stretch;
+.t{
+  text-align: letf;
+padding-left: 20px;
+color: #696969;
+font-family: 'Sarala', sans-serif;
+}
+
+.dataa{
+  font-size: 20px;
+  text-align: letf;
+padding-left: 30px;
+color: #1C1C1C;
+font-family: 'Sarala', sans-serif;
+}
+
+.veja{
+   font-size: 24px;
+  text-align: letf;
+padding-left: 30px;
+color: #1C1C1C;
+font-family: 'Sarala', sans-serif;
+}
+
+.sagas{
+  font-size: 20px;
+  text-align: letf;
+padding-left: 20px;
+color: #696969;
+font-family: 'Sarala', sans-serif;
+}
+
+#im{
+  float: left;
+  padding-right: 1%;
+}
+
+#im2{
+    font-size: 24px;
+  text-align: letf;
+padding-left: 30px;
+color: #1C1C1C;
+font-family: 'Sarala', sans-serif;
 }
